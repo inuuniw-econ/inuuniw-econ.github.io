@@ -20,7 +20,7 @@ email: inuuniw@icloud.com # your email address
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
 github_username: inuuniw-econ
-inspirehep_id: 1010907 # Inspire HEP author ID
+# inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
@@ -37,7 +37,7 @@ inspirehep_id: 1010907 # Inspire HEP author ID
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 rss_icon: false # comment this line to hide the RSS icon
-scholar_userid:  # your Google Scholar ID
+# scholar_userid:  # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
