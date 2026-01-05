@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Student in Economics at Sogang University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: image1.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Economics</p>
+    <p>Sogang University</p>
+    <p>Seoul, Korea</p>
+    <p>inuuniw@u.sogang.ac.kr</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +28,19 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student in Economics at **Sogang University**. My research interests are centered on **Macroeconomics**, **International Finance**, and **Econometrics**, with a focus on monetary and fiscal policy transmission, global financial cycles.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Education
+* **M.A. in Economics**, Sogang University (Mar 2023 – Feb 2025)
+* **B.A. in European Language and Literature / Economics**, Gachon University (Mar 2017 – Feb 2022)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Research Experience
+* **Research Assistant**, Korea Institute of Public Finance (KIPF) (Mar 2025 – Oct 2025)
+  * Designed and implemented DSGE models and conducted calibration using Korean macro-fiscal data.
+* **Research Assistant to Prof. Jun Hee Kwak**, Sogang University (Sep 2023 – Oct 2025)
+  * Analyzed trade and firm-level data using local projections.
+* **Instructional Support**, Sogang University (Sep 2024 – Present)
+
+### Skills
+* **Data Analysis**: Large-scale panel data and time series analysis using **Python** and **STATA**.
+* **Quantitative Modeling**: Programming in **Python**, **MATLAB**, and **Julia**.
