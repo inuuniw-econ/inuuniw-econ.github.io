@@ -6,7 +6,7 @@
     "email": "inuuniw@u.sogang.ac.kr",
     "phone": "+82)10-4132-4861",
     "url": "https://inuuniw-econ.github.io",
-    "summary": "Ph.D. student in Economics at Sogang University specializing in Macroeconomics, International Finance, and Econometrics. My research focuses on monetary and fiscal policy transmission, global financial cycles, and the economic impact of climate shocks using satellite data[cite: 9, 14, 37].",
+    "summary": "Ph.D. student in Economics at Sogang University specializing in Macroeconomics, International Finance, and Econometrics. My research focuses on monetary and fiscal policy transmission, global financial cycles, and the economic impact of climate shocks using satellite data.",
     "location": {
       "city": "Seoul",
       "countryCode": "KR",
@@ -27,25 +27,17 @@
       "url": "https://www.kipf.re.kr/",
       "startDate": "2025-03-01",
       "endDate": "2025-10-31",
-      "summary": "Designed and implemented a dynamic stochastic general equilibrium (DSGE) model and conducted model calibration based on Korean macro-fiscal data[cite: 31, 32, 33].",
+      "summary": "Designed and implemented a dynamic stochastic general equilibrium (DSGE) model and conducted model calibration based on Korean macro-fiscal data.",
       "highlights": ["DSGE Modeling", "Macro-fiscal Calibration"]
     },
     {
       "name": "Sogang University",
       "position": "Research Assistant to Professor Jun Hee Kwak",
-      "url": "https://wwwecon.sogang.ac.kr/",
+      "url": "https://www.sogang.ac.kr/",
       "startDate": "2023-09-01",
       "endDate": "2025-10-31",
-      "summary": "Prepared and cleaned trade and firm-level data for Korea and analyzed causal effects of policy using local projection methods[cite: 34, 35, 36, 37].",
+      "summary": "Prepared and cleaned trade and firm-level data for Korea and analyzed causal effects of policy using local projection methods.",
       "highlights": ["Local Projection", "Firm-level Data Analysis"]
-    },
-    {
-      "name": "Sogang University",
-      "position": "Teaching Assistant",
-      "startDate": "2023-09-01",
-      "endDate": "2026-01-05",
-      "summary": "Assisted in graduate and undergraduate courses including Advanced Macroeconomics, Dynamic Programming, and Macroeconomics I & II[cite: 23, 26, 27, 28, 29, 30].",
-      "highlights": ["Advanced Macroeconomics", "Dynamic Programming"]
     }
   ],
   "volunteer": [
@@ -100,6 +92,11 @@
       "title": "Scholarship for Academic Excellence",
       "date": "2024-03-01",
       "awarder": "Sogang University"
+    },
+    {
+      "title": "Scholarship for Academic Excellence",
+      "date": "2021-03-01",
+      "awarder": "Gachon University"
     }
   ],
   "publications": [
@@ -107,7 +104,7 @@
       "name": "Global CIP deviation Factor",
       "publisher": "Journal of APEC Studies",
       "releaseDate": "2024-12-01",
-      "summary": "Co-authored with Jaeho Kim. Published in Vol. 16 No. 2, pp. 57-74[cite: 18, 19]."
+      "summary": "Co-authored with Jaeho Kim. Published in Vol. 16 No. 2, pp. 57-74."
     }
   ],
   "skills": [
@@ -139,7 +136,7 @@
   "interests": [
     {
       "name": "Research Interests",
-      "keywords": ["Monetary Policy", "International Finance", "Climate Economics", "DSGE"]
+      "keywords": ["Monetary Policy", "International Finance", "Macroeconomics", "DSGE"]
     }
   ],
   "references": [
@@ -159,18 +156,18 @@
   "projects": [
     {
       "name": "Firm-level Investment Responses in an Open Economy",
-      "summary": "Investigating whether domestic monetary policy matters for investment in open economies, with Jun Hee Kwak and Yoonsoo Lee[cite: 9, 10].",
-      "startDate": "2024-01-01"
+      "summary": "Investigating whether domestic monetary policy matters for investment in open economies, with Jun Hee Kwak and Yoonsoo Lee.",
+      "startDate": "2023-09-01"
     },
     {
       "name": "Rebalancing Housing Taxes for an Aging Economy",
-      "summary": "Analyzing the impact of housing tax adjustments in the context of an aging population[cite: 11, 12].",
-      "startDate": "2024-01-01"
+      "summary": "Analyzing the impact of housing tax adjustments in the context of an aging population.",
+      "startDate": "2025-03-01"
     },
     {
       "name": "From Drought to Dinner",
-      "summary": "Research on climate shocks and food import inflation using satellite indices[cite: 14].",
-      "startDate": "2024-01-01"
+      "summary": "Research on climate shocks and food import inflation using satellite indices.",
+      "startDate": "2025-04-01"
     }
   ]
 }

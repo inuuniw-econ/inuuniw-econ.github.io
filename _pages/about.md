@@ -31,9 +31,9 @@ My research interests are centered on **Macroeconomics**, **International Financ
 * **M.A. in Economics**, Sogang University (Mar 2023 – Feb 2025)
 * **B.A. in European Language and Literature / Economics**, Gachon University (Mar 2017 – Feb 2022)
 
-### Research Experience
+### Experience
 * **Research Assistant**, Korea Institute of Public Finance (KIPF) (Mar 2025 – Oct 2025)
-* **Research Assistant to Prof. Jun Hee Kwak**, Sogang University (Sep 2023 – Oct 2025)
+* **Research Assistant**, Sogang University (Sep 2023 – Oct 2025)
   
 
 

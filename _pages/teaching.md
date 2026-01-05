@@ -2,11 +2,25 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Graduate Courses
 
-Organize your courses by years, topics, or universities, however you like!
+* **Advanced Macroeconomics** (Teaching Assistant)
+    * *Sogang University, 2023 – 2025*
+    * Responsible for grading and holding office hours for doctoral/master's students.
+
+---
+
+### Undergraduate Courses
+
+* **Dynamic Programming** (Teaching Assistant)
+    * *Sogang University, 2023 – 2025*
+* **Macroeconomics I & II** (Teaching Assistant)
+    * *Sogang University, 2023 – 2025*
+* **Instructional Support for International Students**
+    * *Sogang University, Sep 2024 – Present*
+    * Providing additional explanations of core economic concepts in English.
