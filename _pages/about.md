@@ -8,11 +8,7 @@ profile:
   align: right
   image: image1.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Economics</p>
-    <p>Sogang University</p>
-    <p>Seoul, Korea</p>
-    <p>inuuniw@u.sogang.ac.kr</p>
+  more_info: #
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,7 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Economics at **Sogang University**. My research interests are centered on **Macroeconomics**, **International Finance**, and **Econometrics**, with a focus on monetary and fiscal policy transmission, global financial cycles.
+I am a Ph.D. student in Economics at **Sogang University**. 
+My research interests are centered on **Macroeconomics**, **International Finance**, and **Econometrics**, with a focus on monetary and fiscal policy transmission, global financial cycles.
 
 ### Education
 * **M.A. in Economics**, Sogang University (Mar 2023 – Feb 2025)
