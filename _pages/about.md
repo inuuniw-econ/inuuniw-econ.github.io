@@ -8,6 +8,7 @@ profile:
   align: right
   image: image1.jpeg
   image_circular: false # crops the image to make it circular
+  style: "width: 220px; margin-right: -20px;"
   more_info: #
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,7 +29,6 @@ I am a Ph.D. student in Economics at **Sogang University**.
 My research interests are centered on **Macroeconomics**, **International Finance**, and **Econometrics**, with a focus on monetary and fiscal policy transmission, global financial cycles.
 
 <br>
-<br>  
 
 ### Education
 * **Ph.D. in Economics**, Sogang University (Feb 2025 – In Progress)
@@ -36,15 +36,16 @@ My research interests are centered on **Macroeconomics**, **International Financ
 * **B.A. in European Language and Literature / Economics**, Gachon University (Mar 2017 – Feb 2022)
 
 <br>
-<br>
 
 ### Experience
 * **Research Assistant**, Korea Institute of Public Finance (KIPF) (Mar 2025 – Oct 2025)
 * **Research Assistant**, Sogang University (Sep 2023 – Oct 2025)
   
 <br>
-<br>
 
 ### Skills
 * **Data Analysis**: Large-scale panel data and time series analysis using **Python** and **STATA**.
 * **Quantitative Modeling**: Programming in **Python**, **MATLAB**, and **Julia**.
+
+<br>
+<br>
