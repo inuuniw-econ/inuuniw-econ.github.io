@@ -27,15 +27,22 @@ latest_posts:
 I am a Ph.D. student in Economics at **Sogang University**. 
 My research interests are centered on **Macroeconomics**, **International Finance**, and **Econometrics**, with a focus on monetary and fiscal policy transmission, global financial cycles.
 
+<br>
+<br>  
+
 ### Education
 * **M.A. in Economics**, Sogang University (Mar 2023 – Feb 2025)
 * **B.A. in European Language and Literature / Economics**, Gachon University (Mar 2017 – Feb 2022)
+
+<br>
+<br>
 
 ### Experience
 * **Research Assistant**, Korea Institute of Public Finance (KIPF) (Mar 2025 – Oct 2025)
 * **Research Assistant**, Sogang University (Sep 2023 – Oct 2025)
   
-
+<br>
+<br>
 
 ### Skills
 * **Data Analysis**: Large-scale panel data and time series analysis using **Python** and **STATA**.
