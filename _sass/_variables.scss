@@ -51,14 +51,4 @@ $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
 
-/*******************************************************************************
- * Chulwon's Custom Blue Theme
- ******************************************************************************/
 
-$global-theme-color: #0076df !default; // 메인 강조 색상 (Blue)
-$global-header-color: #00369f !default; // 헤더 강조
-$global-footer-color: #00369f !default; // 푸터 강조
-$global-link-color: #0076df !default; // 링크 색상
-
-// 카드나 버튼 등의 호버(Hover) 효과를 파란색으로 유지
-$link-hover-color: color.adjust($global-theme-color, $lightness: -10%);
