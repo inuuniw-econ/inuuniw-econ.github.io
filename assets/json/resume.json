@@ -2,7 +2,7 @@
   "basics": {
     "name": "Chulwon Park",
     "label": "Ph.D. Student in Economics",
-    "image": "prof_pic.jpg",
+    "image": "image1.jpeg",
     "email": "inuuniw@u.sogang.ac.kr",
     "phone": "+82)10-4132-4861",
     "url": "https://inuuniw-econ.github.io",
@@ -156,7 +156,7 @@
   "projects": [
     {
       "name": "Firm-level Investment Responses in an Open Economy",
-      "summary": "Investigating whether domestic monetary policy matters for investment in open economies, with Jun Hee Kwak and Yoonsoo Lee.",
+      "summary": "Investigating whether domestic monetary policy matters for investment in open economies.",
       "startDate": "2023-09-01"
     },
     {
