@@ -51,4 +51,19 @@ $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
 
+/*******************************************************************************
+ * Chulwon's Custom Blue Theme - Updated
+ ******************************************************************************/
+
+$max-width: 1200px;
+
+// !default를 모두 제거하여 강제로 덮어씌웁니다.
+$global-theme-color: #0076df; 
+$global-header-color: #00369f;
+$global-footer-color: #00369f;
+$global-link-color: #0076df;
+
+// 추가로 강조색들도 파란색 계열로 맞춰줍니다.
+$red-color: #0076df;
+
 
