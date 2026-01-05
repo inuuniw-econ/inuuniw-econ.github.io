@@ -31,6 +31,7 @@ My research interests are centered on **Macroeconomics**, **International Financ
 <br>  
 
 ### Education
+* **Ph.D. in Economics**, Sogang University (Feb 2025 – In Progress)
 * **M.A. in Economics**, Sogang University (Mar 2023 – Feb 2025)
 * **B.A. in European Language and Literature / Economics**, Gachon University (Mar 2017 – Feb 2022)
 
