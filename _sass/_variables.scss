@@ -58,7 +58,7 @@ $back-to-top-width: $back-to-top-diameter;
 $max-width: 1500px;
 
 // !default를 모두 제거하여 강제로 덮어씌웁니다.
-$global-theme-color: #0076df; 
+$global-theme-color: #0076df;
 $global-header-color: #00369f;
 $global-footer-color: #00369f;
 $global-link-color: #0076df;
@@ -74,11 +74,11 @@ $max-width: 1500px;
 
 // 인디애나 대학교 공식 Crimson 색상 및 보조 버건디 설정
 $iu-crimson: #990000;
-$burgundy-dark: #7D0000;
-$burgundy-light: #A52A2A;
+$burgundy-dark: #7d0000;
+$burgundy-light: #a52a2a;
 
 // 메인 테마 색상 강제 적용
-$global-theme-color: $iu-crimson; 
+$global-theme-color: $iu-crimson;
 $global-header-color: $burgundy-dark;
 $global-footer-color: $burgundy-dark;
 $global-link-color: $iu-crimson;
