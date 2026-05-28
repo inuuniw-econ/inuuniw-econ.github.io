@@ -104,6 +104,12 @@
   ],
   "publications": [
     {
+      "name": "Global Financial Cycles: Sectoral Transmission and Policy Responses",
+      "publisher": "Emerging Markets Finance and Trade",
+      "releaseDate": "2026",
+      "summary": "Co-authored with Jun Hee Kwak. Accepted for publication."
+    },
+    {
       "name": "Global CIP deviation Factor",
       "publisher": "Journal of APEC Studies",
       "releaseDate": "2024-12",
@@ -118,10 +124,10 @@
       "summary": "Accepted for presentation at the 18th WEAI International Conference."
     },
     {
-      "name": "2026 Africa Meeting of the Econometric Society",
-      "publisher": "AUC, Cairo",
+      "name": "2026 Korean Economic Review (KER) International Conference",
+      "publisher": "Jeju, South Korea",
       "releaseDate": "2026-06",
-      "summary": "Accepted for presentation at the Econometric Society meeting."
+      "summary": "Attending the 2026 Korean Economic Review (KER) International Conference."
     }
   ],
   "skills": [
@@ -183,7 +189,7 @@
     },
     {
       "name": "Global Financial Cycles: Sectoral Transmission and Policy Responses",
-      "summary": "Examines how global financial shocks influence output and sectoral capital flows across emerging and advanced economies within an open economy framework.",
+      "summary": "Accepted at Emerging Markets Finance and Trade. Examines how global financial shocks influence output and sectoral capital flows across emerging and advanced economies within an open economy framework.",
       "startDate": "2025"
     }
   ]
