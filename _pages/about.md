@@ -34,20 +34,3 @@ Currently, I am a Ph.D. student at **Sogang University**. My research interests 
 * **Ph.D. in Economics**, Sogang University (Feb 2025 – In Progress)
 * **M.A. in Economics**, Sogang University (Mar 2023 – Feb 2025)
 * **B.A. in European Language and Literature / Economics**, Gachon University (Mar 2017 – Feb 2022) -->
-
-<br>
-
-### Experience
-
-- **Research Assistant**, Korea Institute of Public Finance (KIPF) (Mar 2025 – Oct 2025)
-- **Research Assistant**, Sogang University (Sep 2023 – Oct 2025)
-
-<br>
-
-### Skills
-
-- **Data Analysis**: Large-scale panel data and time series analysis using **Python** and **STATA**.
-- **Quantitative Modeling**: Programming in **Python**, **MATLAB**, and **Julia**.
-
-<br>
-<br>
