@@ -119,13 +119,13 @@
   "presentations": [
     {
       "name": "18th WEAI International Conference",
-      "publisher": "Chulalongkorn University, Bangkok",
+      "publisher": "Chulalongkorn University, Bangkok, Thailand",
       "releaseDate": "2026-04",
-      "summary": "Accepted for presentation at the 18th WEAI International Conference."
+      "summary": "Presented at the 18th WEAI International Conference."
     },
     {
       "name": "2026 Korean Economic Review (KER) International Conference",
-      "publisher": "Jeju, South Korea",
+      "publisher": "Halla Convention Center, Jeju, South Korea",
       "releaseDate": "2026-06",
       "summary": "Accepted for presentation at the 2026 Korean Economic Review (KER) International Conference."
     }
@@ -184,6 +184,7 @@
     },
     {
       "name": "Rebalancing Housing Taxes for an Aging Economy",
+      "url": "https://www.dropbox.com/scl/fi/c1k6x76g5awrvl0sdvpoj/Tax.pdf?rlkey=xlp38d2wxuz9v6rseahyf7f9k&st=449s83vu&dl=0",
       "summary": "Analyzing the impact of housing tax adjustments in the context of an aging population.",
       "startDate": "2025"
     },
