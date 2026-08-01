@@ -105,9 +105,10 @@
   "publications": [
     {
       "name": "Global Financial Cycles: Sectoral Transmission and Policy Responses",
-      "publisher": "Emerging Markets Finance and Trade",
-      "releaseDate": "2026",
-      "summary": "Co-authored with Jun Hee Kwak. Accepted for publication."
+      "url": "https://doi.org/10.1080/1540496X.2026.2670576",
+      "publisher": "Emerging Markets Finance and Trade, pp. 1-9",
+      "releaseDate": "2026-06-10",
+      "summary": "Co-authored with Jun Hee Kwak. Published online June 10, 2026."
     },
     {
       "name": "Global CIP deviation Factor",
@@ -186,11 +187,6 @@
       "name": "Rebalancing Housing Taxes for an Aging Economy",
       "url": "https://www.dropbox.com/scl/fi/c1k6x76g5awrvl0sdvpoj/Tax.pdf?rlkey=xlp38d2wxuz9v6rseahyf7f9k&st=449s83vu&dl=0",
       "summary": "Analyzing the impact of housing tax adjustments in the context of an aging population.",
-      "startDate": "2025"
-    },
-    {
-      "name": "Global Financial Cycles: Sectoral Transmission and Policy Responses",
-      "summary": "Accepted at Emerging Markets Finance and Trade. Examines how global financial shocks influence output and sectoral capital flows across emerging and advanced economies within an open economy framework.",
       "startDate": "2025"
     }
   ]
